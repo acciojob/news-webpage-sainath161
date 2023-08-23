@@ -23,7 +23,7 @@ header h1 {
 	gap:10px;
 }
 
-.news-section {
+.latest-news-section {
     background-color: #fff;
     margin: 20px auto;
     padding: 20px;
@@ -32,7 +32,7 @@ header h1 {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-.news-section h2 {
+.latest-news-section h2 {
     color: #011e29;
 }
 
@@ -54,7 +54,7 @@ li {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-.pictorial-news {
+.pictorial-news-section {
     background-color: #fff;
     margin: 20px auto;
     padding: 20px;
@@ -63,6 +63,6 @@ li {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-.pictorial-news img {
+.pictorial-news-section img {
     max-width: 100%;
 }
